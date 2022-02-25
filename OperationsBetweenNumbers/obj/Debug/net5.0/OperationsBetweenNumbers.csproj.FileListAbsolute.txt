@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.exe
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.deps.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\bin\Debug\net5.0\ref\OperationsBetweenNumbers.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\ref\OperationsBetweenNumbers.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.genruntimeconfig.cache

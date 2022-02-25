@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\bin\Debug\net5.0\OnTimefortheExam.exe
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\bin\Debug\net5.0\OnTimefortheExam.deps.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\bin\Debug\net5.0\OnTimefortheExam.runtimeconfig.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\bin\Debug\net5.0\OnTimefortheExam.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\bin\Debug\net5.0\OnTimefortheExam.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\bin\Debug\net5.0\ref\OnTimefortheExam.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\bin\Debug\net5.0\OnTimefortheExam.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\ref\OnTimefortheExam.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\OnTimefortheExam\obj\Debug\net5.0\OnTimefortheExam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.exe
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.deps.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.runtimeconfig.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\bin\Debug\net5.0\ref\HotelRoom.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\ref\HotelRoom.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.genruntimeconfig.cache

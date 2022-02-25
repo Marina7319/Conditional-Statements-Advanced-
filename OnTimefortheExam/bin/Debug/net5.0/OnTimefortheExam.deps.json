@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OnTimefortheExam/1.0.0": {
+        "runtime": {
+          "OnTimefortheExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnTimefortheExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

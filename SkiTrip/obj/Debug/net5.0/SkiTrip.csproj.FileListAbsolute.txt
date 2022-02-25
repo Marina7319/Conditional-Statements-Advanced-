@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\bin\Debug\net5.0\SkiTrip.exe
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\bin\Debug\net5.0\SkiTrip.deps.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\bin\Debug\net5.0\SkiTrip.runtimeconfig.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\bin\Debug\net5.0\SkiTrip.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\bin\Debug\net5.0\SkiTrip.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\bin\Debug\net5.0\ref\SkiTrip.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\bin\Debug\net5.0\SkiTrip.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\ref\SkiTrip.dll
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.pdb
+C:\Users\Marina\source\repos\ConditionalStatementsAdvanced-Exercise\SkiTrip\obj\Debug\net5.0\SkiTrip.genruntimeconfig.cache
